@@ -24,3 +24,4 @@ console.log(module.exports);
 console.log(exports);
 exports.sayHello = sayHello;
 console.log(exports);
+console.log(module);

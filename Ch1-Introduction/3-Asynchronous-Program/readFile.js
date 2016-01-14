@@ -11,7 +11,7 @@ fs.readFile('file.txt', 'utf-8', function(err, data){
 });
 */
 
-/*2.
+/*2.Synchronous Program
 var data = fs.readFileSync('file.txt', 'utf-8');
 console.log(data);
 */

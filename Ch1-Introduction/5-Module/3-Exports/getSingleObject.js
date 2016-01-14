@@ -2,8 +2,8 @@
 
 
 //var Hello = require('./SingleObject');----------false----------
-var Hello = require('./SingleObject').hello;
-console.log(require('./SingleObject'));
+var Hello = require('./singleObject').hello;
+console.log(require('./singleObject'));
 
 //var hello = new Hello();
 hello = new Hello();
