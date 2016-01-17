@@ -1,0 +1,15 @@
+{
+  "name": "alanpackage",
+  "version": "1.0.0",
+  "description": "A module for learning perpose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learning",
+    "perpose"
+  ],
+  "author": "alan",
+  "license": "ISC"
+}
