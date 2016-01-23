@@ -1,0 +1,45 @@
+{
+	"name": "mypackage",
+	"description": "Sample package for CommonJS. This package demonstrate the required
+					elements of a CommonJS package.",
+	"version": "0.7.0",
+	"keywords": [
+		"package",
+		"example"
+	],
+	"maintainers": [
+		{
+			"name": "Bill Smith",
+			"email": "bill@example.com"
+		}
+	],
+	"contributors": [
+		{
+			"name": "Alan",
+			"web": "www.Alan.com"
+		}
+	],
+	"bugs": {
+			"mail": "dev@example.com",
+			"web": "http://www.example.com"
+	},
+	"licences": [
+		{
+			"type": "GPLv2",
+			"url": "http://www.example.com/licences/gpl.html"
+		}
+	],
+	"repositories": [
+		{
+			"type": "git",
+			"url": "http://github.com/QHCheng"
+		}
+	],
+	"dependencies": {
+		"webkit": "1.2",
+		"ssl":{
+			"gnutls": ["1.0", "2.0"],
+			"openssl": "0.9.8"
+		}
+	}
+}
