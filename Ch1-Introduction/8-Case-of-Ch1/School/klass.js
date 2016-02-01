@@ -9,9 +9,9 @@ function addKlass (teacherName, students) {
 
 	students.forEach(function (item, index) {
 		// body...
-		stu.add(item)
+		stu.add(item);
 	});
-};
+}
 
 exports.addKlass = addKlass;
 //module.exports = addKlass;   OOXX
